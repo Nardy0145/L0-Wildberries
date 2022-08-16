@@ -5,6 +5,6 @@ Used modules :
 - gin
 
 To run: 
-Open nats-streaming-server.exe
-go run main.go
-go run cmd/subscribe.go -ch="name"
+- Open nats-streaming-server.exe
+- go run main.go
+- go run cmd/subscribe.go -ch="name"
