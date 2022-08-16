@@ -7,4 +7,4 @@ Used modules :
 To run: 
 - Open nats-streaming-server.exe
 - go run main.go
-- go run cmd/subscribe.go -ch="name"
+- go run cmd/ordersub/subscribe.go -ch="name"
